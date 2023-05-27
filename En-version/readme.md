@@ -21,8 +21,8 @@ Final training will be given.
 <h1>Goals</h1>
 <p>
 <ul>
-<li>1.Increasing the awareness of end users against threats and reducing the vector of organizational threats</li>
-<li>2.Better management of security incidents</li>
+<li>Increasing the awareness of end users against threats and reducing the vector of organizational threats</li>
+<li>Better management of security incidents</li>
 </ul>
 </p>
 
@@ -31,12 +31,12 @@ The most important vector of security threats to the organization
 The threat vectors of corporate networks are many and complex, but those from the user's side
 The final entry into the organization is limited to:
 <ul>
-<li> Social engineering and phishing emails</li>
-<li> Two-step authentication and password management</li>
-<li> Malware</li>
-<li> Internal threats</li>
-<li> Network penetration indicators</li>
-<li> Security of mobile devices</li>
+<li>Social engineering and phishing emails</li>
+<li>Two-step authentication and password management</li>
+<li>Malware</li>
+<li>Internal threats</li>
+<li>Network penetration indicators</li>
+<li>Security of mobile devices</li>
 </ul>
 </p>
 
@@ -68,11 +68,10 @@ and it will definitely enter your corporate email.
 This type of attack can happen to anyone, if you receive this type of email
 Inform the IT department of your organization. It is also necessary to comply with the following:
 <ul>
-<li>
-1. The source of received emails should be checked carefully</li>
-<li> 2. Avoid sending passwords and bank account information to others via e-mail and even mobile phones</li>
-<li>3. Do not open links and attachments of anonymous emails.</li>
-<li>4. In case of sending an email to another person, be sure to check the email address carefully.</li>
+<li>The source of received emails should be checked carefully</li>
+<li>Avoid sending passwords and bank account information to others via e-mail and even mobile phones</li>
+<li>Do not open links and attachments of anonymous emails.</li>
+<li>In case of sending an email to another person, be sure to check the email address carefully.</li>
 </ul>
 </p>
 
@@ -83,10 +82,10 @@ Today, passwords have taken the place of keys and locks to some extent in our da
 and the user account of the sites and...
 It can be summarized in a few simple things:
 <ul>
-<li>. 1. Leave the password on the paper next to the monitor and...</li>
-<li>2. Periodically change the passwords of important accounts</li>
-<li>3. Enable two-step authentication for email</li>
-<li>4. Never share your account passwords with other colleagues</li>
+<li>Leave the password on the paper next to the monitor and...</li>
+<li>Periodically change the passwords of important accounts</li>
+<li>Enable two-step authentication for email</li>
+<li>Never share your account passwords with other colleagues</li>
 </ul>
 </p>
 <h1>Malware</h1>
@@ -95,13 +94,13 @@ It can be summarized in a few simple things:
 If we want to talk about malware, books can be written, etc., but let me tell you very briefly
 You. Malware is divided into these several classes and sometimes includes all of them:
 <ul><li>
-<li>.1 cream </li>
-<li>.2 virus </li>
-3. Ransomware
-<li>. 4 adware</li>
-<li>.5 Spyware</li>
-<li>.6 Trojans </li>
-<li>… .7</li>
+<li>Worm</li>
+<li>virus</li>
+<li>Ransomware</li>
+<li>adware</li>
+<li>Spyware</li>
+<li>Trojans </li>
+<li>...</li>
 </ul>
 This list goes on, but this much is enough for the simplicity of the content. In a very brief way for
 You will be explained how each one works.
@@ -154,10 +153,10 @@ Investigating how to respond to this type of threats is very long
 It is enough that this form of threats can be identified and answered.
 To deal with the type of threat you, as an end user, observe these few things:
 <ul><li>
-<li>. 1. Do not share your system password with anyone.</li>
-<li>. 2. Don't enter someone's personal system without their permission.</li>
-<li>3. Do not ask anyone for a password and do not give your password to anyone.</li>
-<li> 4. If you see any suspicious activity, inform.</li>
+<li>Do not share your system password with anyone.</li>
+<li>Don't enter someone's personal system without their permission.</li>
+<li>Do not ask anyone for a password and do not give your password to anyone.</li>
+<li>If you see any suspicious activity, inform.</li>
 </ul>
 </p>
 
@@ -178,9 +177,9 @@ Today, mobile phones and tablets have become inseparable parts of organizations.
 which is for desktop and laptop systems also apply to this kind of devices. A few points
 In addition to these points, it must be observed. Example
 <ul>
-<li>. 1. Do not share the Wi-Fi password of the corporate network with anyone.</li>
-<li>2. Do not download programs from unknown and unreliable sources.</li>
-<li>. 3. Keep your system up to date.</li>
+<li>Do not share the Wi-Fi password of the corporate network with anyone.</li>
+<li>Do not download programs from unknown and unreliable sources.</li>
+<li>Keep your system up to date.</li>
 </ul>
 </p>
 
