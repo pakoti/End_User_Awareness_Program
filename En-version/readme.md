@@ -183,7 +183,23 @@ In addition to these points, it must be observed. Example
 </ul>
 </p>
 
+# Safety tips for remote employees
+You connect to the corporate network using a software installed in your system by the IT unit. Remember that your username and password are the key to enter the organization's network. You are responsible for anything that happens with your key, that is, your username and password. Do not change your password. Be sure to remember the following points:
 
+<ul><li>
+<li>Do not enter your date and username anywhere other than the VPN software.</li>
+<li>Do not save your username and password in your system</li>
+<li> and ...</li>
+</ul>
+
+
+# Safety tips for call center operators
+  Be safe. As someone who answers the calls and incoming and outgoing calls of a company, remember that you can be the target of threats against the organization. But by following a few simple tips, you can easily avoid most of the threats.
+<ul><li>
+<li>Do not answer any questions such as what Windows are you using and ... all technical questions and immediately inform the IT department.</li>
+<li>Avoid giving unnecessary information such as internal information of other colleagues because you may disturb other colleagues</li>
+<li>If it is not in your business process for the subscriber to send you information, if a subscriber sends content such as links and attachments to your corporate email, avoid opening it.</li>
+</ul>
 
 
 <h1>Summary</h1>
@@ -203,4 +219,7 @@ be avoided</li>
 <li> Do not ask anyone for a password and do not give your password to anyone.</li>
 <li> Don't log into someone's personal system without their permission.</li>
 <li> Do not share your system password with anyone.</li>
-<li
+</ul>
+
+
+
